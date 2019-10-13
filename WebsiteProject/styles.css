@@ -1,0 +1,335 @@
+body {
+   margin: 0;
+   padding: 0;
+   font-family: Arial, serif;
+}
+
+
+.nav {
+  background-color: #ffffff;
+  text-align: right;
+  list-style: none;
+  padding: 20px 0 0 0;
+}
+
+.nav > li {
+  display: inline-block;
+  padding-right: 50px;
+  font-size: 18px
+}
+
+.nav > li > a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.nav > li > a:hover {
+  color: #9e9e9e;
+}
+
+#title {
+   /*Background-color: #123456;*/
+   float: left;
+   margin: 0;
+   padding: 0;
+   position:absolute;
+   clip:rect(0,500px,50px,0);
+   /* (top, right, bottom, left) */
+}
+
+.Careers {
+  list-style: none;
+}
+
+.Careers > li {
+  Padding-bottom: 20px;
+}
+
+.Careers > li > a{
+  text-decoration: none;
+  color: #474747;
+  font-weight: bold;
+}
+
+.Careers > li > a:hover {
+  color: #ffffff;
+}
+
+.banner {
+  padding-top: 20px;
+  width: 100%;
+}
+
+#Home {
+  height: 1500px;
+  opacity: 0.8;
+}
+
+.centered {
+    position: absolute;
+    top: 130%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fbffe0;
+    font-size: 24px;
+}
+
+#about-content {
+    position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #474747;
+    font-size: 24px;
+}
+
+#About {
+  height: 1300px;
+  opacity: 100;
+}
+
+#sources-content {
+    position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #474747;
+    font-size: 24px;
+}
+
+#Sources {
+  height: 3100px;
+  opacity: 100;
+}
+
+#contact-content {
+  position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #474747;
+    font-size: 24px;
+}
+
+#Accountant {
+  height: 600px;
+}
+
+#accountant-content {
+position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#ActuarialAnalyst {
+  height: 1100px;
+}
+
+#ActuarialAnalyst-content {
+  position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Architect {
+  height: 900px;
+}
+
+#Architect-content {
+  position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Budget {
+  height: 600px;
+}
+
+#Budget-content{
+ position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Biologist {
+  height: 750px;
+}
+
+#Biologist-content {
+  position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Cost {
+  height: 650px;
+}
+
+#Cost-content {
+  position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Data {
+  height: 700px;
+}
+
+#Data-content {
+  position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#economist {
+  height: 700px;
+}
+
+#economist-content {
+   position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Financial {
+  height: 950px;
+}
+
+#Financial-content {
+   position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Investment {
+  height: 650px;
+}
+
+#Investment-content {
+   position: absolute;
+    top: 20%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Teacher{
+  height: 700px;
+}
+
+#Teacher-content {
+  position: absolute;
+    top: 30%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#RealEstate-content {
+  position: absolute;
+    top: 30%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Robotics-content{
+  position: absolute;
+    top: 30%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Software-content {
+   position: absolute;
+    top: 30%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Stock-content {
+     position: absolute;
+    top: 30%;
+    left: 16px;
+    color: #000000;
+    font-size: 24px;
+}
+
+#Careers {
+  height: 850px;
+  opacity: 0.8;
+}
+
+#Careers-content {
+  position: absolute;
+    top: 30%;
+    left: 16px;
+    font-size: 24px;
+}
+
+#copyright {
+  text-align: center;
+}
+
+#Logo {
+  height: 20%;
+  display: block;
+    margin-left: 240px;
+    margin-top: -90px;
+    width: 20%;
+    float: left;
+}
+
+#mathpicture {
+  display: block;
+    margin-left: 20%;
+    margin-top: 50px;
+    height: 250px;
+}
+
+li {
+  padding: 10px;
+  padding-top: 0px;
+}
+
+#table1 {
+  width: 100%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  color: #fbffe0;
+}
+
+td, th {
+    border: 3px solid #fbffe0;
+    text-align: left;
+    padding: 8px;
+  }
+
+  #Top-Paid {
+      text-align: center;
+      padding-top: 30px;
+      color: #fbffe0;
+  }
+
+  #Highest-increase {
+    text-align: center;
+    padding-top: 30px;
+  }
